@@ -19,7 +19,7 @@ const Feedback = () => (
             className='feedback-gradient popUpAnimation'
           />
           <div>
-            <h4 className='font-bold sm:text-[32px] tex-[26px] sm:leading-[40px] leading-[36px] text-white'>Samantha</h4>
+            <h4 className='font-bold sm:text-[32px] tex-[26px] sm:leading-[40px] leading-[36px] text-white'>Nitesh Marwaha</h4>
             <p className='mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white'>Founder | Metaverse</p>
           </div>
           <p className='mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white'>"With the development of today's technology, metaverse is going to be a stepping stone into the world for VR and AR."</p>
