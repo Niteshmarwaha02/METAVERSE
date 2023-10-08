@@ -33,7 +33,7 @@ const Footer = () => (
               socials.map((social, index) => (
                 <button key={index} type="button">
                   <a href={social.href}>
-                    <img src={social.url} alt={social.name} />
+                    <img src={social.url} alt={social.name} className="w-[24px] h-[24px] object-contain" />
                   </a>
                 </button>
 
