@@ -32,7 +32,9 @@ const Footer = () => (
           <div className="flex flex-row gap-3 ">{
               socials.map((social, index) => (
                 <button key={index} type="button">
-                  <img src={social.url} alt={social.name} />
+                  <a href={social.href}>
+                    <img src={social.url} alt={social.name} />
+                  </a>
                 </button>
 
               ))
