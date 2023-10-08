@@ -78,7 +78,7 @@ export const socials = [
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    href: 'www.linkedin.com/in/nitesh-marwaha-6474481ba',
+    href: 'https://www.linkedin.com/in/nitesh-marwaha-6474481ba/',
   },
   {
     name: 'github',
